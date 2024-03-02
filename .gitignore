@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+**/node_modules/
+
+**/.env
